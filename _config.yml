@@ -1,0 +1,28 @@
+name: Polite Type
+favicon: null
+layout_spectrum: 0.6874969818163663
+typography_spectrum: 0.40190266049467027
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.46859176084399223
+  lightness: 0.6467920590657741
+  saturation: 0.7445133649744093
+  rhythmicContrast: 0.6361945474054664
+purpose: []
